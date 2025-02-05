@@ -5,3 +5,5 @@
 ```
 $ ylhällä on kissa kuva
 ```
+- [ ] tehtävä 4
+- [ ] tehtävä 5
